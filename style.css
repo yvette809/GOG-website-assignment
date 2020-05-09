@@ -1,0 +1,126 @@
+body*{
+    margin: 0;
+    
+
+}
+
+  
+  
+
+.carousel-control-prev .fas{
+    font-size: 40px;
+    border: 5px solid whitesmoke;
+    border-radius: 27px;
+    color: #6c6c6c;
+    position: absolute;
+}
+.carousel-control-next .fas{
+    font-size: 40px;
+    border: 5px solid whitesmoke;
+    border-radius: 27px;
+    color: #6c6c6c;
+    position: absolute;
+}
+
+
+    
+
+ol.carousel-indicators li.active{
+    background-color: blueviolet;
+    padding: 1px;
+    
+}
+
+ul .nav-item a{
+    color:  rgba(255, 255, 255, 0.972) !important;
+    text-transform: capitalize!important;
+
+}
+.tags{
+    margin-right: 150px !important;
+    font-size: large;
+}
+
+
+hr{
+    border: 0.5px dashed black;
+    margin: 5px 0;
+    height: 2px;
+}
+strong,.ga{
+    color: purple;
+}
+
+.ml{
+    margin-left: 220px;
+}
+.first {
+    background:url("gog assets/tile (23).jpg.");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.second{
+    background-image:url("gog assets/tile (34).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.last{
+    background-image: url("gog assets/tile (38).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+i{
+    font-size: 20px;
+    
+}
+.time{
+    background-image: url("gog assets/tile (18).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sales{
+    background-image: url("gog assets/tile (19).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.promo{
+    padding-right: -15px;
+    padding-left: -15px;
+  
+}
+button.cart{
+    background-color: rgb(75, 129, 20)!important;
+    padding: 15px;
+    border:none;
+
+}
+button#soon{
+    text-transform: capitalize;
+
+}
+.fa-cart-plus{
+    background-color: none;
+}
+.btn-primary{
+    background-color: purple !important;
+}
+.week{
+    margin-top: 30px;
+    letter-spacing: 0.1px;
+}
+span a{
+    color: white;
+}
+footer{
+    background-color: rgba(5, 1, 1, 0.849);
+    
+}
+button.download{
+    margin-left: 100px;
+
+}
+.breadcrumb{
+    background-color:  #d8d8d8;;
+}
