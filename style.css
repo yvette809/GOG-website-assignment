@@ -7,19 +7,23 @@ body*{
   
   
 
-.carousel-control-prev .fas{
+.carousel-control-prev {
     font-size: 40px;
-    border: 5px solid whitesmoke;
+    
     border-radius: 27px;
     color: #6c6c6c;
     position: absolute;
 }
-.carousel-control-next .fas{
+.carousel-control-next {
     font-size: 40px;
-    border: 5px solid whitesmoke;
+
     border-radius: 27px;
     color: #6c6c6c;
     position: absolute;
+}
+
+#soon{
+    text-transform: uppercase;
 }
 
 
@@ -31,9 +35,9 @@ ol.carousel-indicators li.active{
     
 }
 
-ul .nav-item a{
+ul li a.nav-link {
     color:  rgba(255, 255, 255, 0.972) !important;
-    text-transform: capitalize!important;
+    text-transform: uppercase;
 
 }
 .tags{
